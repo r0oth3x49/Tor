@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+#######################################################
+#       Author: Nasir khan (r0ot h3x49)               #
+#######################################################
+
 import os
 
 def check_path(filename):
