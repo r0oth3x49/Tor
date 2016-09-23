@@ -1,4 +1,8 @@
 #!/usr/bin/python
+#######################################################
+#       Author: Nasir khan (r0ot h3x49)               #
+#######################################################
+
 import os,sys,time
 import socks
 import socket
