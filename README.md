@@ -13,7 +13,7 @@ You can download the latest version of Tor by cloning the GitHub repository:
 - Run the ***tor_services.py*** file to establish a Tor circuit.
 
 **Usage within the another python tool**
-- <a href="https://r0oth3x49.herokuapp.com/tor/">Using proxy module within your code</a>
+- <a href="https://r0oth3x49.herokuapp.com/tor-a-python-module-for-windows/">Using proxy module within your code</a>
 
 **Tested on**
 - Windows 7
