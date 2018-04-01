@@ -1,7 +1,6 @@
 # Tor
 
-**Tor is a python based module for using tor proxy (an anonymous network) services. you can run tor on windows with double click. 
-Tor can also be configured with other scripts and tools by just a simple import of the proxy module that is created using python.**
+**Tor is a python based module for using tor proxy (an anonymous network) services.**
 
 [![tor.png](https://s26.postimg.org/eqgds272h/tor.png)](https://postimg.org/image/686xnq0jp/)
 
