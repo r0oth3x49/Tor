@@ -1,1 +1,1 @@
-import win_inet_pton
+from . import win_inet_pton

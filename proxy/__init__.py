@@ -1,10 +1,6 @@
-#!/usr/bin/python
-#######################################################
-#       Author: Nasir khan (r0ot h3x49)               #
-#######################################################
-
-from proxy import Proxy
-from proxy_errors import(
+from .proxy import Proxy
+from .Tor import Tor
+from .proxy_errors import(
     ProxyConnectionError,
     ProxyError,
     AuthError,

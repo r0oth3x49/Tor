@@ -1,2 +1,2 @@
-from socks import *
-from sockshandler import *
+from .socks import *
+from .sockshandler import *

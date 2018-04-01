@@ -1,9 +1,5 @@
-#!/usr/bin/python
-#######################################################
-#       Author: Nasir khan (r0ot h3x49)               #
-#######################################################
-import socks
 import socket
+from . import socks
 ProxyConnectionError = socks.ProxyConnectionError
 GeneralProxyError = socks.GeneralProxyError
 ProxyError = socks.ProxyError
